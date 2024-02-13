@@ -1,0 +1,19 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-icon {
+  height: 40px;
+  width: 40px;
+}
+.sugge {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.button{
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor:pointer;
+}
